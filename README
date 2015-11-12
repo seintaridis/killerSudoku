@@ -1,0 +1,22 @@
+Sto sudoku.py ginete i ektelesi t programmatos diladi gia na treksoume to programma tha prepei na
+plikrologisoume python sudoku.py
+
+to kirio programma omws einai sto csp.py sto sudoku grammi 474
+  i ilopoiiis stirixtike panw sto sudoku p iprixe apla eftiaksa kainourio unit ta cage kai ta evala sta neighbors t kathe koytiou
+epipleon prosthesa kainouries metavlites hidden variables p eixan domains tuples eplitreptvn timwn diladi kathe hidden variable itan ena cage
+
+
+etsi oi hidden exoun neighbors osa koutia vriskontai mesa tous enw sta koutia prosthesa san neighbors to cage sto opoio vriskontai
+kai stin constraint apla tsekarw an einai kaoi dio metavlites originall variables apla kanw oti ekana sto sudoku 
+enw an einai to ena hidden kai to allo original tsekarw an to original einai mesa sto hidden
+
+
+i ilopoiisi eksigite mesa sto kwdika
+
+
+epipleon exw ena arxeio input p einai to arxeio eisodou ekei exw dio paradeigmata to ena p eixnai tis ekfwnisis kai to allo p einai 
+apo ena paixnidi android p iparxei sto playstore
+
+apla kanoume copy ston kwdika tn kainouria arxiki katastasi
+
+thewrisa dn exei toso simasia i eisodos na ginete me wraio tropo kathw pio poli einai epistimoniko to provlima kai mas niazei i apodosi
